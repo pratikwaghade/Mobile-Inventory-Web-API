@@ -1,0 +1,6 @@
+@Mobile_Inventory_Web_API_HostAddress = http://localhost:5122
+
+GET {{Mobile_Inventory_Web_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

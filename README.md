@@ -1,4 +1,5 @@
 📱 Mobile Inventory Web API
+
 A simple ASP.NET Core Web API built with Entity Framework Core that provides CRUD operations to manage a list of mobile phones in an inventory system. This project follows RESTful principles and uses a SQL Server database with Code First approach.
 
 🚀 Features

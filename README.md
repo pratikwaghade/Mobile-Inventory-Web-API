@@ -3,6 +3,7 @@
 A simple ASP.NET Core Web API built with Entity Framework Core that provides CRUD operations to manage a list of mobile phones in an inventory system. This project follows RESTful principles and uses a SQL Server database with Code First approach.
 
 🚀 Features
+
 🔍 Get all mobiles
 
 📄 Get a mobile by ID
@@ -18,6 +19,7 @@ A simple ASP.NET Core Web API built with Entity Framework Core that provides CRU
 📦 EF Core Code-First database design
 
 🧱 Technologies Used
+
 ✅ ASP.NET Core Web API (.NET 6/7)
 
 ✅ Entity Framework Core
